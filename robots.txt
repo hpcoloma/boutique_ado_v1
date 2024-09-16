@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /accounts/
+Disallow: /bag/
+Sitemap: https://boutique-ado-by-hc-eaa564404ad2.herokuapp.com/sitemap.xml
